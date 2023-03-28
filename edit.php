@@ -11,4 +11,4 @@
 </form><br>
 <?php require '../footer.php'; ?>
 
-<?php echo 'feature2をテストする: コンフリクト解消後' ?>
+<?php echo 'テスト: baseがmainになるかどうか ' ?>
