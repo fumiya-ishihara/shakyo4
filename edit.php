@@ -11,4 +11,4 @@
 </form><br>
 <?php require '../footer.php'; ?>
 
-<?php echo 'テスト: baseがmainになるかどうか ' ?>
+<?php echo 'テスト2: baseをmainにrenameした' ?>
